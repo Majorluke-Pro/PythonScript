@@ -1,0 +1,58 @@
+[
+    {
+        "assetNumber": "FA-00",
+        "assetName": "Laptop, (DELL, Inspirion 2-in-1)",
+        "purchaseDate": "05/01/2021",
+        "purchasePrice": 21738.0,
+        "serialNumber": "J25SC63",
+        "description": "Inspirion 2-in-1, mariana.herbst@uspeglobal.com, Sandton"
+    },
+    {
+        "assetNumber": "FA-01",
+        "assetName": "Laptop, (DELL, Inspirion 2-in-1)",
+        "purchaseDate": "07/01/2021",
+        "purchasePrice": 13486.0,
+        "serialNumber": "4LNBY93",
+        "description": "Inspirion 2-in-1, eshen.moodley@uspeglobal.com, Sandton"
+    },
+    {
+        "assetNumber": "FA-02",
+        "assetName": "Laptop, (DELL, Inspirion 2-in-1)",
+        "purchaseDate": "07/01/2021",
+        "purchasePrice": 13486.0,
+        "serialNumber": "CQNBY93 312",
+        "description": "Inspirion 2-in-1, andre.germishuys@uspeglobal.com, Sandton"
+    },
+    {
+        "assetNumber": "FA-03",
+        "assetName": "Laptop, (DELL, Inspirion 2-in-1)",
+        "purchaseDate": "31/08/2021",
+        "purchasePrice": 14557.0,
+        "serialNumber": "D1Z65B3 + 123",
+        "description": "Inspirion 2-in-1, mamadou.sissoko@uspeglobal.com, Sandton"
+    },
+    {
+        "assetNumber": "FA-04",
+        "assetName": "Laptop, (DELL, Inspirion 2-in-1)",
+        "purchaseDate": "31/08/2021",
+        "purchasePrice": 14557.0,
+        "serialNumber": "GGZ65B3",
+        "description": "Inspirion 2-in-1, ricky@uspeglobal.com, Sandton"
+    },
+    {
+        "assetNumber": "FA-05",
+        "assetName": "Laptop, (DELL, Inspirion 2-in-1 + Testing)",
+        "purchaseDate": "07/01/2021",
+        "purchasePrice": 13486.0,
+        "serialNumber": "GVNBY93",
+        "description": "Inspirion 2-in-1 + Testing, michael@uspeglobal.com, Sandton"
+    },
+    {
+        "assetNumber": "FA-06",
+        "assetName": "Laptop, (DELL, Inspirion 2-in-1 + Testing)",
+        "purchaseDate": "23/10/2023",
+        "purchasePrice": 22242.0,
+        "serialNumber": "8VGMHX3",
+        "description": "Inspirion 2-in-1 + Testing, christelle.horn@uspeglobal.com, Sandton"
+    }
+]
